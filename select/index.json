@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Capture the Moment",
+  "base_artist": "hololive IDOL PROJECT",
+  "createdAt": "2025-12-13T12:03:19.514531Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Capture the Moment",
+      "artist": "Wishbone Ash",
+      "has_synced": false,
+      "path": "select/01_Capture_the_Moment_Wishbone_Ash.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Capture the Moment",
+      "artist": "Jay & The Americans",
+      "has_synced": false,
+      "path": "select/02_Capture_the_Moment_Jay_&_The_Americans.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Capture The Moment",
+      "artist": "Jay and the Americans",
+      "has_synced": false,
+      "path": "select/03_Capture_The_Moment_Jay_and_the_Americans.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Capture the Moment",
+      "artist": "Wishbone Ash",
+      "has_synced": true,
+      "path": "select/04_Capture_the_Moment_Wishbone_Ash.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Capture the Moment",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/05_Capture_the_Moment_hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Capture the Moment",
+      "artist": "Hololive",
+      "has_synced": true,
+      "path": "select/06_Capture_the_Moment_Hololive.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Capture The Moment",
+      "artist": "The APX",
+      "has_synced": true,
+      "path": "select/07_Capture_The_Moment_The_APX.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Capture the Moment",
+      "artist": "Jay",
+      "has_synced": false,
+      "path": "select/08_Capture_the_Moment_Jay.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Capture the Moment",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/pl_01_Capture_the_Moment_hololive_IDOL_PROJECT.txt"
+    }
+  ]
+}
